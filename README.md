@@ -1,1 +1,1 @@
-# -DevOps.-CI-CD
+# DevOps
